@@ -1,0 +1,15 @@
+# 表盘激活插件配置
+# 开发者请在此处添加您的表盘配置
+# 格式：
+#   "表盘名称":
+#     watchId: 表盘ID
+#     page: 页面编号
+#     character: 角色标识
+
+watchfaces:
+  # 示例配置（请根据实际情况修改）
+  # "示例表盘":
+  #   watchId: 1234
+  #   page: 1
+  #   character: example
+  
